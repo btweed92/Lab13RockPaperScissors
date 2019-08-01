@@ -1,0 +1,11 @@
+C:\Users\tweed\source\repos\Lab13RockPaperScissors\Lab13RockPaperScissors\bin\Debug\netcoreapp2.2\Lab13RockPaperScissors.deps.json
+C:\Users\tweed\source\repos\Lab13RockPaperScissors\Lab13RockPaperScissors\bin\Debug\netcoreapp2.2\Lab13RockPaperScissors.runtimeconfig.json
+C:\Users\tweed\source\repos\Lab13RockPaperScissors\Lab13RockPaperScissors\bin\Debug\netcoreapp2.2\Lab13RockPaperScissors.runtimeconfig.dev.json
+C:\Users\tweed\source\repos\Lab13RockPaperScissors\Lab13RockPaperScissors\bin\Debug\netcoreapp2.2\Lab13RockPaperScissors.dll
+C:\Users\tweed\source\repos\Lab13RockPaperScissors\Lab13RockPaperScissors\bin\Debug\netcoreapp2.2\Lab13RockPaperScissors.pdb
+C:\Users\tweed\source\repos\Lab13RockPaperScissors\Lab13RockPaperScissors\obj\Debug\netcoreapp2.2\Lab13RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\tweed\source\repos\Lab13RockPaperScissors\Lab13RockPaperScissors\obj\Debug\netcoreapp2.2\Lab13RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\tweed\source\repos\Lab13RockPaperScissors\Lab13RockPaperScissors\obj\Debug\netcoreapp2.2\Lab13RockPaperScissors.AssemblyInfo.cs
+C:\Users\tweed\source\repos\Lab13RockPaperScissors\Lab13RockPaperScissors\obj\Debug\netcoreapp2.2\Lab13RockPaperScissors.dll
+C:\Users\tweed\source\repos\Lab13RockPaperScissors\Lab13RockPaperScissors\obj\Debug\netcoreapp2.2\Lab13RockPaperScissors.pdb
+C:\Users\tweed\source\repos\Lab13RockPaperScissors\Lab13RockPaperScissors\obj\Debug\netcoreapp2.2\Lab13RockPaperScissors.csprojAssemblyReference.cache
